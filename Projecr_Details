@@ -1,4 +1,5 @@
 FEATURES
 It can identify student faces with moderate confidence and give attendance , only if the student hasspent a minimum time in class. It keeps track of who entered and left the class in real time. It has classified student among three groups, PRESENT, ABSENT, ABSENT due to not spendingminimum time in class, so that teachers can keep track of students who left before. It will automatically create its own csv file and will mark attendance after every execution, along withcorresponding details like date, day etc. The csv file will automatically be sent via E-mail to the authorities concerned, after each executionService Management System (Python ILP Project):This project is a Python-based application designed to streamline the management of servicerequests for a business or organization. It allows users to register service complaints, assigntechnicians, track service status, and maintain customer records efficiently
 
-I have purposely chose not to add the image files as it may violate individual privacy
+I have purposely chose not to add the image files as it may violate individual privacy.
+For reference I am mentioning the process as keep individual folders for storing each person's photo and then keep all the folders within a Master Folder which is referred as "Goku" here.
